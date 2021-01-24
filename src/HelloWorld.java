@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello_World!");
         System.out.println("qwerty");
         System.out.println("йцукен");
+        System.out.println("This is important!");
     }
 }
